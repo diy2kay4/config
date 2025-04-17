@@ -1,0 +1,529 @@
+{
+  "ESP key": {
+    "Key": 0,
+    "Mode": 3,
+    "Show": false
+  },
+  "Enemy ESP": {
+    "Armor bar": {
+      "High color": {
+        "Alpha": 1.0,
+        "Color": "#0026ff"
+      },
+      "Low color": {
+        "Alpha": 1.0,
+        "Color": "#ff0c00"
+      },
+      "Outline": false,
+      "Shadow": {
+        "Alpha": 0.50344825,
+        "Color": "#ffffff",
+        "Enabled": true
+      },
+      "Text": {
+        "Enabled": false,
+        "Flags": 0,
+        "Font": 2
+      },
+      "Thickness": 3
+    },
+    "Box": {
+      "Box Outline": false,
+      "Box bottom color": {
+        "Alpha": 1.0,
+        "Color": "#d800ff"
+      },
+      "Box enabled": true,
+      "Box fill": {
+        "Fill bottom color": {
+          "Alpha": 0.24137932,
+          "Color": "#d800ff"
+        },
+        "Fill enabled": true,
+        "Fill top color": {
+          "Alpha": 0.10344827,
+          "Color": "#53eeff"
+        },
+        "Fill type": 1
+      },
+      "Box type": 1
+    },
+    "Enable": true,
+    "Flags": [
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Enabled": true,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Enabled": true,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Enabled": true,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Enabled": true,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Enabled": true,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Enabled": true,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Enabled": true,
+        "Flags": 2
+      }
+    ],
+    "Grenades": {
+      "Enabled": true
+    },
+    "Head": {
+      "Alpha": 1.0,
+      "Color": "#ff0000",
+      "Enabled": true
+    },
+    "Head type": 1,
+    "Health bar": {
+      "Enabled": true,
+      "High color": {
+        "Alpha": 1.0,
+        "Color": "#62ff00"
+      },
+      "Low color": {
+        "Alpha": 1.0,
+        "Color": "#ff0c00"
+      },
+      "Outline": false,
+      "Shadow": {
+        "Alpha": 0.55172414,
+        "Color": "#ffffff",
+        "Enabled": true
+      },
+      "Text": {
+        "Flags": 0,
+        "Font": 2
+      },
+      "Thickness": 3
+    },
+    "Name": {
+      "Enabled": true,
+      "Flags": 0,
+      "Font": 2,
+      "LeftC": {
+        "Alpha": 1.0,
+        "Color": "#d800ff"
+      },
+      "RightC": {
+        "Alpha": 1.0,
+        "Color": "#53eeff"
+      },
+      "Type": 1
+    },
+    "Offscreen": {
+      "OOF enabled": true,
+      "OOF offset": 500,
+      "OOF size": 40,
+      "OOF solid color": {
+        "Alpha": 1.0,
+        "Color": "#d800ff"
+      },
+      "OOF type": 4
+    },
+    "Skeleton": {
+      "Alpha": 1.0,
+      "Color": "#ff0000",
+      "Enabled": true
+    },
+    "Weapon icon": {
+      "Enabled": true
+    }
+  },
+  "Grenade helper": {
+    "Aim pos": {
+      "Alpha": 1.0,
+      "Color": "#d800ff",
+      "Enabled": true
+    },
+    "Aimbot": {
+      "Enable": true,
+      "Smoothness": 5
+    },
+    "Enable": true,
+    "Ground circle": {
+      "Alpha": 1.0,
+      "Color": "#d800ff",
+      "Enabled": true
+    },
+    "GroundText": {
+      "Alpha": 1.0,
+      "Color": "#53eeff",
+      "Enabled": true
+    },
+    "Range": 4096.0
+  },
+  "Legitbot config": [
+    {
+      "FOV": 3.8,
+      "Hitboxes": 2,
+      "RCS smooth": 0,
+      "Smooth": {
+        "Type": 2,
+        "X": 0,
+        "Y": 0
+      }
+    },
+    {
+      "FOV": 3.0,
+      "Hitboxes": 31,
+      "RCS amount": 0,
+      "Smooth": {
+        "Type": 2,
+        "X": 0,
+        "Y": 0
+      }
+    },
+    {},
+    {
+      "RCS": false
+    },
+    {},
+    {
+      "FOV": 3.5,
+      "Hitboxes": 31,
+      "Non sticky": true,
+      "RCS amount": 0,
+      "Smooth": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    {
+      "FOV": 3.8,
+      "Hitboxes": 2,
+      "Override": true,
+      "Smooth": {
+        "X": 3,
+        "Y": 3
+      }
+    }
+  ],
+  "Legitbot global": {
+    "Draw FOV": {
+      "Enable": true,
+      "In": {
+        "Alpha": 0.2758621,
+        "Color": "#53eeff"
+      },
+      "Out": {
+        "Alpha": 0.31034482,
+        "Color": "#d800ff"
+      },
+      "Type": 2
+    },
+    "Enable": true,
+    "Priority": 2,
+    "Visible only": true,
+    "Visualize hitboxes": {
+      "Alpha": 0.57931036,
+      "Color": "#53eeff",
+      "Enabled": true
+    }
+  },
+  "Legitbot key": {
+    "Key": 2,
+    "Mode": 3,
+    "Show": true
+  },
+  "Misc": {
+    "Accent": {
+      "Alpha": 1.0,
+      "Color": "#d800ff"
+    },
+    "DiscordRPC": false,
+    "Hitmarker": {
+      "Alpha": 1.0,
+      "Color": "#d800ff",
+      "Enabled": true,
+      "Gap": 2.0,
+      "Length": 4.0
+    },
+    "Hitsound": 1,
+    "Keybinds": {
+      "Enabled": true,
+      "Pos": {
+        "X": 6.0,
+        "Y": 521.0
+      }
+    },
+    "Spectators": {
+      "Enabled": true,
+      "Pos": {
+        "X": 4.0,
+        "Y": 330.0
+      }
+    },
+    "Velocity graph": {
+      "Alpha": 1.0,
+      "Color": "#d800ff",
+      "Enabled": true,
+      "Text": {
+        "Alpha": 1.0,
+        "Color": "#d800ff"
+      },
+      "Width": 3.39
+    },
+    "Watermark": {
+      "Pos": 3,
+      "Seconds": true,
+      "Separator": 3
+    }
+  },
+  "Nade helper key": {
+    "Key": 88,
+    "Mode": 3,
+    "Show": true
+  },
+  "Other ESP": {
+    "Bomb": {
+      "Enable": true,
+      "Icon": {
+        "Alpha": 1.0,
+        "Color": "#d800ff",
+        "Enabled": true
+      },
+      "Name": {
+        "Alpha": 1.0,
+        "Color": "#53eeff",
+        "Enabled": true
+      },
+      "Timer": {
+        "Alpha": 1.0,
+        "Color": "#53eeff",
+        "Enabled": true
+      }
+    },
+    "Dropped": {
+      "Ammo": {
+        "High color": {
+          "Alpha": 1.0,
+          "Color": "#71afff"
+        },
+        "Low color": {
+          "Alpha": 1.0,
+          "Color": "#71afff"
+        }
+      },
+      "Distance": 161.0,
+      "Enable": true,
+      "Icon": {
+        "Alpha": 1.0,
+        "Color": "#d800ff",
+        "Enabled": true
+      },
+      "Name": {
+        "Alpha": 1.0,
+        "Color": "#53eeff",
+        "Enabled": true
+      }
+    },
+    "Projectile": {
+      "Enable": true,
+      "Icon": {
+        "Alpha": 1.0,
+        "Color": "#d800ff",
+        "Enabled": true
+      },
+      "Name": {
+        "Alpha": 1.0,
+        "Color": "#53eeff",
+        "Enabled": true
+      },
+      "Timer": {
+        "Enabled": true,
+        "High color": {
+          "Alpha": 1.0,
+          "Color": "#4f0359"
+        },
+        "Low color": {
+          "Alpha": 1.0,
+          "Color": "#ffffff"
+        },
+        "Outline": false,
+        "Text": {
+          "Font": 2,
+          "SolidC": {
+            "Alpha": 1.0,
+            "Color": "#53eeff"
+          }
+        }
+      },
+      "Warning": {
+        "Arrow": {
+          "Alpha": 1.0,
+          "Color": "#53eeff"
+        },
+        "Danger": {
+          "Alpha": 1.0,
+          "Color": "#e10000"
+        },
+        "Enable": true,
+        "Safe": {
+          "Alpha": 0.0,
+          "Color": "#2300ff"
+        },
+        "Timer": {
+          "Alpha": 1.0,
+          "Color": "#53eeff"
+        }
+      }
+    }
+  },
+  "Prediction key": {
+    "Key": 0,
+    "Mode": 3,
+    "Show": true
+  },
+  "Team ESP": {
+    "Enable": true,
+    "Flags": [
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      },
+      {
+        "Case": 2,
+        "Flags": 2
+      }
+    ],
+    "Skeleton": {
+      "Alpha": 0.20689654,
+      "Color": "#ff0000",
+      "Enabled": true
+    },
+    "Skeleton thickness": 1.0
+  },
+  "Trigger": [
+    {
+      "Between shots delay": 780,
+      "Enable": true,
+      "Magnet": false
+    },
+    {
+      "Between shots delay": 839,
+      "Enable": true,
+      "Magnet": false
+    },
+    {},
+    {},
+    {},
+    {
+      "Enable": true
+    },
+    {
+      "Enable": true
+    }
+  ],
+  "Triggerbot key": {
+    "Key": 2,
+    "Mode": 3,
+    "Show": true
+  },
+  "Visuals": {
+    "BT": {
+      "C": {
+        "Alpha": 1.0,
+        "Color": "#d800ff"
+      },
+      "E": true,
+      "T": 2.6
+    },
+    "CC": {
+      "CColor": {
+        "Alpha": 1.0,
+        "Color": "#d800ff"
+      },
+      "CEnable": true
+    },
+    "Custom FOV": true,
+    "FOV": 120,
+    "NM": 15,
+    "Taser": {
+      "Alpha": 1.0,
+      "Color": "#53eeff",
+      "Enabled": true
+    },
+    "Trail": {
+      "Color": {
+        "Alpha": 1.0,
+        "Color": "#d800ff",
+        "Enabled": true
+      },
+      "Color type": 1,
+      "Thickness": 10.0
+    }
+  }
+}
